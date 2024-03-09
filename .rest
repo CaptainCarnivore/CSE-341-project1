@@ -1,5 +1,0 @@
-### GEt all contacts
-https://cse-341-project1-smv5.onrender.com/contacts
-
-### Get Contact by ID
-https://cse-341-project1-smv5.onrender.com/contacts/65dfa30076f4077303866af8
